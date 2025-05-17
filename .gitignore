@@ -19,6 +19,175 @@
 *.tar.gz
 *.rar
 
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Eclipse
+*.launch
+*.settings/
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+gen/
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build output directories
+/bin/
+/build/
+/dist/
+
+# Go modules and workspace files
+go.sum
+go.work
+go.work.sum
+
+# Vendor directory (if using vendoring mode)
+vendor/
+
+# Dependency management (deprecated tools)
+Gopkg.lock
+Gopkg.toml
+
+# Buffalo-specific
+database.yml
+.env
+/tmp
+/public/assets
+/public/packs
+/public/images
+/public/fonts
+/public/javascripts
+/public/stylesheets
+node_modules/
+webpack/
+webpack.config.js
+yarn.lock
+package-lock.json
+
+# Gin-specific (commonly generated artifacts)
+logs/
+*.log
+
+# IDE/editor artifacts
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# VS Code
+.vscode/
+
+# JetBrains (GoLand, IntelliJ)
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Angular build artifacts
+/dist/
+/out-tsc/
+/tmp/
+/build/
+/coverage/
+
+# Angular environment files (if manually excluded)
+# Uncomment if you don't want to version environment files
+# /src/environments/environment*.ts
+
+# Node.js dependencies
+/node_modules/
+
+# Package manager lock files (optional, keep only one if needed)
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+
+# Angular cache
+/.angular/
+/.angular/cache/
+
+# NPM logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tgz
+*.bak
+*.swp
+*.tmp
+
+# Optional: Firebase deploy artifacts
+.firebase/
+
+# Optional: Storybook static build
+/storybook-static/
+
+
+# Others
+demo/
+logs/
+*.log
+garbage/
+notes/
+devel-vault/
