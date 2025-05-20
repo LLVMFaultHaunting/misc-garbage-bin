@@ -1,5 +1,10 @@
 # misc-garbage-bin
 
+## Mini Projects
+
+### [Dynamic Envelope Api Gateway](<vault/Dynamic Envelope Api Gateway.md>)
+
+
 ## Disclaimer
 
 All content, code, and documentation in this repository has been developed on or after 15 May 2025.
