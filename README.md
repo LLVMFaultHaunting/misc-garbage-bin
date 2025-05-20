@@ -2,7 +2,7 @@
 
 ## Mini Projects
 
-### [Dynamic Envelope Api Gatewaye](<vault/Dynamic Envelope Api Gatewaye.md>)
+### [Dynamic Envelope Api Gatewaye](<vault/Dynamic Envelope Api Gateway.md>)
 
 
 ## Disclaimer
