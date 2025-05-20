@@ -16,3 +16,5 @@ Implements a single API endpoint `/events` to receive all envelopes, validate th
 - **Models:** `Envelope`, `Meta`, `Data`  
 - **Pattern:** Gateway Pattern  
 - **Algorithm:** Event code → service map routing
+
+[Back to README](../README.md)
