@@ -1,10 +1,13 @@
 # misc-garbage-bin
 
+## Leetcode
+### [Leetcode Garbage](<leetcode/leetcode.md>)
+
 ## Mini Projects
-
 ### [Dynamic Envelope Api Gateway](<vault/Dynamic Envelope Api Gateway.md>)
-
-
+<br><br> 
+<br><br> 
+<br><br> 
 ## Disclaimer
 
 All content, code, and documentation in this repository has been developed on or after 15 May 2025.
