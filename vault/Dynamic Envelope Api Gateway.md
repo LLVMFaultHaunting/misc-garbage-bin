@@ -1,4 +1,4 @@
-## ✅ Project : Dynamic Envelope API Gateway 
+## ✅ Project : [Dynamic Envelope API Gateway](<../Projects/Api Gateway>)
 
 **Purpose:**  
 Implements a single API endpoint `/events` to receive all envelopes, validate them, and forward based on `eventCode`.
@@ -16,5 +16,8 @@ Implements a single API endpoint `/events` to receive all envelopes, validate th
 - **Models:** `Envelope`, `Meta`, `Data`  
 - **Pattern:** Gateway Pattern  
 - **Algorithm:** Event code → service map routing
+
+
+
 
 [Back to README](../README.md)
