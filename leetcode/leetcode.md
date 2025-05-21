@@ -9,7 +9,8 @@
 
 ## 🟠 Medium Level 
 
-| #   | Problem Title           | Link                                                           | SRC                                             | Note                |
-| --- | ----------------------- | -------------------------------------------------------------- | ----------------------------------------------- | ------------------- |
-| 347 | Top K Frequent Elements | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [View Script](./347-top-k-frequent-elements.py) | HashMap             |
+| #   | Problem Title           | Link                                                           | SRC                                             | Note                            |
+| --- | ----------------------- | -------------------------------------------------------------- | ----------------------------------------------- | ------------------------------- |
+| 347 | Top K Frequent Elements | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [View Script](./347-top-k-frequent-elements.py) | HashMap                         |
+| 49  | Group Anagrams          | [Link](https://leetcode.com/problems/group-anagrams/)          | [View Script](./49-group-anagrams.py)           | HashMap with sorted string keys |
 
